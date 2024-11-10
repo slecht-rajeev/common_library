@@ -1,0 +1,23 @@
+# Ignore Git and version control files
+.git
+.gitignore
+
+# Ignore build and log files
+build/
+logs/
+
+# Ignore specific file types
+*.log
+*.tar.gz
+
+# Ignore node_modules directory in Node.js applications
+node_modules/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+temp/
+.tmp
+.DS_Store
